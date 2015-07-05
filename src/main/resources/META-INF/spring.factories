@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.gabrielruiu.spring.boot.yahoo.YahooAutoConfiguration
